@@ -2,7 +2,7 @@
 This repository contains a basic Exploratory Data Analysis (EDA) on population data of Indian cities using Python libraries like pandas, matplotlib, and seaborn.
 
 # 📁 Files
-cities_population_analysis.ipynb: Jupyter Notebook with code to visualize:
+task_1.ipynb : Jupyter Notebook with code to visualize:
 
 Male population distribution
 
